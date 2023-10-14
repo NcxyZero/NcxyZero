@@ -1,18 +1,17 @@
 # Hello, I’m @NcxyZero
 
-I'm interested in Cyber Secruity, Computer Science, Mathematics and ofc Quantum Physics with which I'm planning studies.
-
+Backend developer
 My english isn't really perfect because I'm not english native speaker. Thanks for understanding.
 
-## Programming languages I'm interesed in:
-| Languages    |                                            
-|--------------|
-| Lua          |
-| Javascript   | 
-| Python       |
-| C            |
-| Golang       |
-| ASM          |
+## Things I'm intersted in:
+| Programming Languages    | Hobbies                             |                                            
+|--------------------------|----------------------------------------|
+| Lua                      | Quantum Physics (planning to study it) |
+| Javascript               | Mathematics |
+| Python                   | Programming |
+| C                        | Learning languages |
+| Golang                   | Cyber secruity |
+| ASM                      | Cooking |
 
 ### Contact
 Discord: @ncxyzero
