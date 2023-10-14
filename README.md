@@ -13,3 +13,6 @@ My english isn't really perfect because I'm not english native speaker. Thanks f
 | C            | Learning                                         |
 | Golang       | Learning                                         |
 | ASM          | Learning                                         |
+
+### Contact
+Discord: @ncxyzero
