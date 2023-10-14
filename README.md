@@ -4,15 +4,15 @@ I'm interested in Cyber Secruity, Computer Science, Mathematics and ofc Quantum 
 
 My english isn't really perfect because I'm not english native speaker. Thanks for understanding.
 
-## Programming languages I'm currently know/learning:
-| Language         | Know/Learning                                             |
-|--------------|--------------------------------------------------|
-| Lua          | Know                                             |
-| Javascript   | Know                                             |
-| Python       | Know                                             |
-| C            | Learning                                         |
-| Golang       | Learning                                         |
-| ASM          | Learning                                         |
+## Programming languages I'm interesed in:
+| Languages    |                                            
+|--------------|
+| Lua          |
+| Javascript   | 
+| Python       |
+| C            |
+| Golang       |
+| ASM          |
 
 ### Contact
 Discord: @ncxyzero
