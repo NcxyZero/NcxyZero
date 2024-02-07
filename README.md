@@ -7,7 +7,7 @@ My english isn't really perfect because I'm not english native speaker. Thanks f
 | Programming Languages    | Hobbies                             |                                            
 |--------------------------|----------------------------------------|
 | Lua                      | Quantum Physics (planning to study it) |
-| Javascript               | Mathematics |
+| Javascript/Typescript    | Mathematics |
 | Python                   | Programming |
 | C                        | Learning languages |
 | Golang                   | Cyber secruity |
